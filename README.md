@@ -1,4 +1,4 @@
-foodub
+Foodub
 ======
 
 P2P audio sharing over the internet
@@ -13,7 +13,7 @@ It also tries to pull metadata about what's playing, and there's an option to sw
 
 The audio is streamed peer to peer, and you never have to upload any files. Whatever you hear, so does everyone else.
 
-Also, it's really easy to use. If the world were a better place, you could do everything in browser. For now, you can share audio from individual tabs in Chrome just by installing a Chrome extension. Unfortunately if you want to share what you hear on the rest of your computer, you'll need to install some stuff. Hopefully one day it won't be like this anymore.
+Also, it's really easy to use. If the world were a better place, you could do everything in browser. For now, you can share audio from individual tabs in Chrome just by installing a Chrome extension (note: only in Chrome dev versions for now). Unfortunately if you want to share what you hear on the rest of your computer, you'll need to install some stuff. Hopefully one day it won't be like this anymore.
 
 What about phones? We'll see.
 
